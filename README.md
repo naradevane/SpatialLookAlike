@@ -74,7 +74,7 @@ The Windows C++ plugin utilizes a *1-File Magic* (LISP Injection) method, elimin
 
 1. Ensure you are running a 64-bit version of AutoCAD (2021 or newer is recommended).
 2. Type the `APPLOAD` command in AutoCAD.
-3. Locate and load the **`LiveMapPlugin.arx`** file.
+3. Locate and load the **`SpatialLookAlike.arx`** file.
 4. *(Optional)* Add this file to your **Startup Suite** to run it automatically every time AutoCAD launches.
 5. Type the main command `SLAIMPORT` to launch the graphical user interface.
 

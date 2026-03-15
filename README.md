@@ -3,6 +3,14 @@
 
 The SLA Master Engine is a pure C++ (ObjectARX) based AutoCAD plugin integrated with dynamic LISP interface injection. This plugin is specifically designed to accelerate the workflow of Drafters in Fiber To The Home (FTTH) architecture design. The SLA Master Engine serves as a lightweight, blazing-fast, and highly accurate solution for processing spatial files (KML/KMZ) and rendering Live Map Backgrounds directly within the AutoCAD canvas.
 
+## 📥 Download Latest Release
+Choose the appropriate engine for your operating system:
+
+[![Download ARX](https://img.shields.io/badge/Download-Windows_.arx-blue?style=for-the-badge&logo=windows)](https://github.com/naradevane/SpatialLookAlike/releases/latest)
+[![Download LISP](https://img.shields.io/badge/Download-Mac/Legacy_.lsp-lightgrey?style=for-the-badge&logo=apple)](https://github.com/naradevane/SpatialLookAlike/releases/latest)
+
+*(Clicking the buttons above will take you to the latest Release page where you can download the binaries and scripts).*
+
 ---
 
 ## **Key Features & Mechanics**
@@ -52,7 +60,7 @@ The UK generally uses UTM Zone **30** and is located in the **North Hemisphere**
 
 **Solution (Via User Interface):**
 1. Type the `SLAIMPORT` command in AutoCAD.
-2. Click the **API & CRS Settings** button.
+2. Click the **CRS Settings** button.
 3. Select the **UTM (Local)** option.
 4. In the **UTM Zone** field, input `30`.
 5. Under the Hemisphere options, select **North (N)**.
@@ -96,4 +104,11 @@ This plugin is an independent, third-party software and is **NOT** affiliated wi
 The Live Map Background feature fetches raster tile data purely for educational purposes, demonstrations, and internal visual referencing. All risks associated with its use, including but not limited to IP access blocking by the Map Provider due to API Terms of Service (ToS) violations, are **solely the responsibility of the End-User**. The Author shall not be held liable for any legal or technical damages arising from the use of this plugin.
 
 ---
-**Author:** Ikhsanudin (naradevane) | *FTTH Drafter*
+
+## 📬 Connect with Me
+
+I am a passionate FTTH Drafter and Developer focusing on spatial data automation and web-based engineering solutions. Let's connect!
+
+* **Portfolio & Projects:** [naradevane.vercel.app](https://naradevane.vercel.app/)
+* **LinkedIn:** [Ikhsanudin (naradevane)](https://www.linkedin.com/in/naradevane/)
+* **Email:** [naradevane@gmail.com](mailto:naradevane@gmail.com)

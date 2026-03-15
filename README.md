@@ -105,7 +105,7 @@ The Live Map Background feature fetches raster tile data purely for educational 
 
 ---
 
-## 📬 Connect with Me
+## Connect with Me
 
 I am a passionate FTTH Drafter and Developer focusing on spatial data automation and web-based engineering solutions. Let's connect!
 

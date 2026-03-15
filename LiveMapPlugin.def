@@ -1,0 +1,10 @@
+; LiveMapPlugin.def
+; Module definition file required by the ObjectARX loader.
+; The linker uses this to export the two mandatory symbols so that
+; AutoCAD can locate them at load time via GetProcAddress().
+
+LIBRARY "LiveMapPlugin"
+
+EXPORTS
+    acrxEntryPoint     PRIVATE
+    acrxGetApiVersion  PRIVATE

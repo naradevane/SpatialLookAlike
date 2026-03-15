@@ -1,0 +1,17 @@
+# Folder Kompilasi & IDE
+build/
+.vs/
+out/
+*.user
+*.ncb
+*.suo
+
+# File Binary / Mateng
+*.arx
+*.dll
+*.exe
+*.lib
+*.exp
+
+# File Rahasia / Catatan Pribadi
+resolutionSLA.MD
